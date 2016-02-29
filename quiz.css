@@ -1,0 +1,47 @@
+
+article {
+	border: 1px solid lightblue;
+	width: 30%;
+	display: inline-block;
+	margin: 5px 5px 5px 5px;
+	height: auto;
+}
+
+h3.product {
+	border: 1px dotted lightgray;
+	text-align: center;
+	margin: inherit;
+}
+
+img {
+	max-width: 100%;
+	height: 200px;
+}
+
+.available {
+	background-color: darkgray;
+	color: yellow;
+	margin: inherit;
+}
+
+.size {
+	font-weight: bold;
+}
+
+.weight {
+	font-weight: bold;
+}
+
+.specifications {
+	font-size: .75em;
+}
+
+h5.specific {
+	font-weight: bold;
+	margin: 1px 0 1px 0;
+}
+
+h5.price {
+	font-weight: bold;
+	margin: 1px 0 1px 0;
+}
